@@ -1,16 +1,16 @@
-## I am an experienced Java Developer and DevOps Professional with a passion for web development and cloud computing
+## I am Shubham Guthale and I am interested in Java Developement, System Programming and DevOps for web development
 
 
 ### Lets Connect 
 - [LINKED IN  - /in/shubham-guthale](https://www.linkedin.com/in/shubham-guthale/) 
-- [GITHUB - /ShubhamGuthale](https://github.com/ShubhamGuthale) 
-
+- [GITHUB - /ShubhamGuthale](https://github.com/ShubhamGuthale)
+  
 
 
 
 ## Projects
 
-### [ObjectDetection](/docs/objectdetection)
+### [Real Time Object Detection Web App](/docs/objectdetection)
 • This is a Object Detection Web App build by using Custom trained models, Streamlit Framework and
 PyTorch like Google Lens.
 • In this project, I trained a custom dataset model that support more than 20+ objects.
@@ -27,7 +27,7 @@ Technology Used
 - Jupyter Notebook
 - Own Trained Model
 
-### [Google Florida Update Implementation]
+### [Google Florida Update Implementation](https://github.com/ShubhamGuthale/Implementation-Of-Google-Florida-Update)
 • This is a Google Florida Update Implementation for Search Engine Optimization build by using Python
 Programming language, DSA Concepts and Vs Code IDE.
 • It is a Python Program that fetches details about the content of a given web page, extracts text from HTML
