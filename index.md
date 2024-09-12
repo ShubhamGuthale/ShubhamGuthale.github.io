@@ -17,7 +17,7 @@ PyTorch like Google Lens.
 • It is a Object Detection Web App build by using Machine Learning, Image Processing and labelImg
 (Graphical image annotation tool), Jupyter notebook and Custom trained models.
 
-#### [[https://github.com/ShubhamGuthale/Real-time-object-detection-model](https://github.com/ShubhamGuthale/Real-time-object-detection-model)](https://github.com/ShubhamGuthale/Real-time-object-detection-model)
+(https://github.com/ShubhamGuthale/Real-time-object-detection-model)
 
 Technology Used
 - Python
