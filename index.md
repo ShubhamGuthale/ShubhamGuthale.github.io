@@ -35,7 +35,7 @@ and then analyzes the frequency of keywords for Keyword Stuffing or not.
 • If a keyword appears more than a specified limit, it is flagged as potential keyword Stuffing for detecting
 Black Hat technique in SEO.
 
-#### [https://github.com/ShubhamGuthale/Implementation-Of-Google-Florida-Update](https://github.com/ShubhamGuthale/Implementation-Of-Google-Florida-Update)
+(https://github.com/ShubhamGuthale/Implementation-Of-Google-Florida-Update)
 
 Technology Used
 - HTML
@@ -48,7 +48,7 @@ Technology Used
 • This is a To Do web application build by using Java Servlet, JSP and MySQL for Database Management.
 • Implemented features allowing users to Create, Manage and track tasks efficiently.
 
-#### [https://github.com/ShubhamGuthale/To-Do-List-Project](https://github.com/ShubhamGuthale/To-Do-List-Project)
+(https://github.com/ShubhamGuthale/To-Do-List-Project)
 
 Technology Used
 - HTML
